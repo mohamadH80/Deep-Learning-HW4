@@ -19,7 +19,8 @@ This is an implementation of a type of auto encoders named Vector Quantized Vari
 
 Reference article link: https://arxiv.org/pdf/1711.00937.pdf
 
-Paper Abstract:
+**Paper Abstract:**
+
 Learning useful representations without supervision remains a key challenge in
  machine learning. In this paper, we propose a simple yet powerful generative
  model that learns such discrete representations. Our model, the Vector Quantised
