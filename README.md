@@ -13,7 +13,7 @@ to improve images quality. The 2 dimensional latent space is showen in last sect
 
 
 ## Q3 Notebook(Persian Poem Generator):
-A SeqToSeq model is implemeneted to generate poem in persian language. We fine tune GPT2 pre-trained model using a suitable loss function. Perplexity measure is used to understand exact quality of outputs.
+A Seq2Seq model is implemeneted to generate poem in persian language. We fine tune GPT2 pre-trained model using a suitable loss function. Perplexity measure is used to understand exact quality of outputs.
 
 
 
