@@ -4,13 +4,18 @@ For baseline, we train a FC on one-hot encoded of SMILES strings. In the next tw
 BiLSTM to get better accuracy in our binary prediction. 
 
 
+
 ## VAE_CVAE Notebook:
 In this notebook, we implement a Variational Autoencoder using MLP to generate MNIST images. Also, we have implemented Conditional Variational Autoencoder
 to improve images quality. The 2 dimensional latent space is showen in last section.
 
 
+
+
 ## Q3 Notebook(Persian Poem Generator):
 A SeqToSeq model is implemeneted to generate poem in persian language. We fine tune GPT2 pre-trained model using a suitable loss function. Perplexity measure is used to understand exact quality of outputs.
+
+
 
 
 ## Q4 Notebook:
